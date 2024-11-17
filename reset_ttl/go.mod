@@ -1,4 +1,4 @@
-module reset_ttl
+module github.com/crawlerclub/tools/reset_ttl
 
 go 1.23.1
 
